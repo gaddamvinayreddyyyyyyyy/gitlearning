@@ -1,3 +1,2 @@
-print("hello")
-print("Vinay is good")
-print("now sent this using UI options")
+name = input("What is your name? ")
+print(f"Hi, {name}! It's nice to meet you.")
